@@ -1,6 +1,6 @@
 const friends = [
-  "0xb745dA722377EBB27DFA7C004c9e643fb38AD40b"
-  "0x578214c88C5747E019941D2e958cfa942fE35f41"
+  "List of Addresses"
+  
   
 ];
 const existingContractAddr = "0xf1c7c3d1510aCB70D3f9a36B39688CF14208442C";
